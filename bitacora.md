@@ -16,3 +16,12 @@
 
 **Learned:** the public key goes to GitHub, the private key stays on my PC; `cat ./-` reads a file named `-`
 **Next:** Anki cards, LinkedIn headline, Bandit level 2
+
+## Day 3 — 2026-10-22
+- Created my Anki deck "Cloud Journey" with my first Linux cards
+- Updated my LinkedIn headline
+- Bandit: completed levels 2, 3 and 4 (reached level 5)
+- Added new commands to `notes/linux.md`
+
+**Learned:** hidden files (`ls -a`), `cd`, `file` to detect file types, quotes for names with spaces, `--` to end options
+**Next:** Bandit levels 5–7
